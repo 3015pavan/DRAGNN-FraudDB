@@ -1,4 +1,4 @@
-# 🔍 Graph Neural Network–Based Fraud Detection System
+#  Graph Neural Network–Based Fraud Detection System
 
 ## Project Overview
 A comprehensive fraud detection system that combines database-driven transaction analysis with Graph Neural Networks (GNN) to identify fraudulent financial transactions by analyzing relationships between accounts, devices, and merchants.
