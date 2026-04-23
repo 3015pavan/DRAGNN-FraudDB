@@ -139,11 +139,7 @@ streamlit run src/visualization/dashboard.py
 ## 🤝 Contributing
 This is an academic/research project. For modifications or improvements, please document your changes thoroughly.
 
-## 📝 License
-MIT License - See LICENSE file for details
 
-## 👥 Authors
-- Project for fraud detection research using GNNs
 
 ## 🔗 References
 - IEEE-CIS Fraud Detection Dataset (Kaggle)
@@ -152,4 +148,4 @@ MIT License - See LICENSE file for details
 
 ---
 **Status**: 🚧 Under Active Development
-**Last Updated**: November 20, 2025
+
